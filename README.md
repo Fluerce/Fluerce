@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Vic! 👋 
 
-<!--
-**Fluerce/Fluerce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working on my portfolio, building my name in the industry! Balancing my career and working on myself at the same time!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything I get interested on! 
+- 👯 I’m looking to collaborate with open source repositories soon!
+- 🥅 2023 Goals: Be a better programmer than I was yesterday! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+★★★★ Proficient
+Java, JavaScript, PHP, NoSQL/SQL
+(PostgreSQL, MySQL, MongoDB, 
+SQLite,Oracle SQL) Python, HTML, 
+CSS (Markup Language)
+★★★ Knowledgeable
+C++, C#
+★★ Familiar
+MATLAB
