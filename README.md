@@ -9,31 +9,23 @@
 ### Languages and Tools:
 
 ★★★★ Proficient<br/>
-[Languages]<br/>
-Java, JavaScript, PHP, NoSQL/SQL
-(PostgreSQL, MySQL, MongoDB, 
-SQLite,Oracle SQL) Python, HTML,
-CSS (Markup Language)<br/>
-[Applications]<br/>
-NetBeans, Visual Studio Code, 
-Insomnia, GitHub Desktop,
-Adobe Photoshop, Eclipse, 
-Microsoft Office<br/>
+<b>[Languages]</b><br/>
+Java, JavaScript, PHP, NoSQL/SQL (PostgreSQL, MySQL, MongoDB,  SQLite,Oracle SQL) Python, HTML, CSS (Markup Language)<br/>
+<b>[Applications]</b><br/>
+NetBeans, Visual Studio Code, Insomnia, GitHub Desktop, Adobe Photoshop, Eclipse, Microsoft Office<br/>
+<br/>
 ★★★ Knowledgeable<br/>
-[Languages]<br/>
+<b>[Languages]</b><br/>
 C++, C#<br/>
-[Tools]<br/>
-Node.js, React.js, Babylon.js,
-Express.js<br/>
-[Applications]<br/>
-IntelliJ, Dev C++, Postman, 
-Blender, Unity<br/>
+<b>[Tools]</b><br/>
+Node.js, React.js, Babylon.js, Express.js<br/>
+<b>[Applications]</b><br/>
+IntelliJ, Dev C++, Postman,  Blender, Unity<br/>
+<br/>
 ★★ Familiar<br/>
-[Languages]<br/>
+<b>[Languages]</b><br/>
 MATLAB<br/>
-[Tools]<br/>
+<b>[Tools]</b><br/>
 Flask, Spring Boot, Bootstrap<br/>
-[Applications]<br/>
-Docker, SAP S4/HANA, Azure, 
-Cisco Packet Tracer, Oracle VM 
-Virtual Box
+<b>[Applications]</b><br/>
+Docker, SAP S4/HANA, Azure, Cisco Packet Tracer, Oracle VM Virtual Box
