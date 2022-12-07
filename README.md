@@ -8,12 +8,12 @@
 
 ### Languages and Tools:
 
-★★★★ Proficient
+★★★★ Proficient<br/>
 Java, JavaScript, PHP, NoSQL/SQL
 (PostgreSQL, MySQL, MongoDB, 
 SQLite,Oracle SQL) Python, HTML, 
-CSS (Markup Language)
-★★★ Knowledgeable
-C++, C#
-★★ Familiar
+CSS (Markup Language)<br/>
+★★★ Knowledgeable<br/>
+C++, C#<br/>
+★★ Familiar<br/>
 MATLAB
