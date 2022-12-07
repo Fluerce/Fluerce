@@ -9,11 +9,31 @@
 ### Languages and Tools:
 
 ★★★★ Proficient<br/>
+[Languages]<br/>
 Java, JavaScript, PHP, NoSQL/SQL
 (PostgreSQL, MySQL, MongoDB, 
-SQLite,Oracle SQL) Python, HTML, 
+SQLite,Oracle SQL) Python, HTML,
 CSS (Markup Language)<br/>
+[Applications]<br/>
+NetBeans, Visual Studio Code, 
+Insomnia, GitHub Desktop,
+Adobe Photoshop, Eclipse, 
+Microsoft Office<br/>
 ★★★ Knowledgeable<br/>
+[Languages]<br/>
 C++, C#<br/>
+[Tools]<br/>
+Node.js, React.js, Babylon.js,
+Express.js<br/>
+[Applications]<br/>
+IntelliJ, Dev C++, Postman, 
+Blender, Unity<br/>
 ★★ Familiar<br/>
-MATLAB
+[Languages]<br/>
+MATLAB<br/>
+[Tools]<br/>
+Flask, Spring Boot, Bootstrap<br/>
+[Applications]<br/>
+Docker, SAP S4/HANA, Azure, 
+Cisco Packet Tracer, Oracle VM 
+Virtual Box
